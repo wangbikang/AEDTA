@@ -11,6 +11,7 @@ pylab
 scipy
 
 paper has been published in:https://www.sciencedirect.com/science/article/pii/S1569843223000298
+paper doi:https://doi.org/10.1016/j.jag.2023.103207
 (paper title:A noise removal algorithm based on adaptive elevation difference thresholding for ICESat-2 photon-counting data)
 
 if you have any question, please contact with me: wangbikang@fio.org.cn
