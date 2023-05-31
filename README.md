@@ -21,3 +21,6 @@ if you have any questions, please contact with me: wangbikang@fio.org.cn  , wang
 You can downlod the csv file of ICESat-2 from this website: https://openaltimetry.org/data/icesat2/
 
 
+<div align="center">
+  <img src="https://github.com/wangbikang/AEDTA/blob/main/ICESat-2%20bathymetry%20data/%E5%9B%BE%E7%89%871.png">
+</div>
