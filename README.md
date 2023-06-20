@@ -3,8 +3,13 @@
 A noise denoising algorithm for ICESat-2 data. And it is mainly used for underwater photon
 #  我的邮箱是： wangbikang@fio.org.cn 
 
+海洋
 <div align="center">
   <img src="https://github.com/wangbikang/AEDTA/blob/main/ICESat-2%20bathymetry%20data/%E5%9B%BE%E7%89%872.png">
+</div>
+湖泊
+<div align="center">
+  <img src="https://github.com/wangbikang/AEDTA/blob/main/ICESat-2%20bathymetry%20data/Qinghai.png">
 </div>
 
 PYTHON package:
