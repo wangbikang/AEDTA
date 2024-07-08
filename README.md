@@ -1,7 +1,6 @@
 # AEDTA/  ICESat-2 bathymetry data
 ## A noise removal algorithm based on adaptive elevation difference thresholding for ICESat-2 photon-counting data
 A noise denoising algorithm for ICESat-2 data. And it is mainly used for underwater photon
-#  我的邮箱是： wangbikang@fio.org.cn 
 
 海洋
 <div align="center">
