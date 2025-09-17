@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/4ea540a5-759f-4f0d-8e34-4e32f2ebe903)# AEDTA/  ICESat-2 bathymetry data
+![image](https://github.com/user-attachments/assets/4ea540a5-759f-4f0d-8e34-4e32f2ebe903)
+# AEDTA/  ICESat-2 bathymetry data
 ## A noise removal algorithm based on adaptive elevation difference thresholding for ICESat-2 photon-counting data
 A noise denoising algorithm for ICESat-2 data. And it is mainly used for underwater photon
 
